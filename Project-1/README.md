@@ -15,13 +15,13 @@
 
 
 1. Which program is fastest? Is it always the fastest?  
-    A. According to the times recorded above with the default makefile properties the fastest process consistently was the program using the alloca function
+    A. According to the times recorded above with the default makefile properties, the fastest process consistently was the program using the alloca function
 2. Which program is slowest? Is it always the slowest?  
     A. The list and new programs were extremely close in execution time; however, the list was slightly slower consistently than the new.
 3. Was there a trend in program execution time based on the size of data in each Node? If so, what, and why?  
     A. The table above was collected with MIN_BYTES = 100 & MAX_BYTES = 1000 data in the fourth column. Comparing the time to complete between the third and fourth columns, we can see that an increase in node size correlates with a direct increase in execution time.
 4. Was there a trend in program execution time based on the length of the block chain?  
-    A. increasing the block chain length increased the time to complete for each proccess exponetntially.
+    A. Increasing the blockchain length increased the time to complete for each process exponentially.
 6. Consider heap breaks, what's noticeable? Does increasing the stack size affect the heap? Speculate on any similarities and differences in programs?  
     A.
 8. Considering either the malloc.cpp or alloca.cpp versions of the program, generate a diagram showing two Nodes. Include in the diagram
