@@ -9,7 +9,7 @@ Assignment details provided in the uploaded project description.
 ## Project Versions
 
 ### 1. Wireframe Triangle
-[My triangle](start-triangle.html)
+[My triangle](start_-_triangle.html)
 **File:** `triangle.html`
 
 Renders a procedurally generated equilateral triangle using:
