@@ -17,11 +17,12 @@
 #
 #    make OPT="-O2 -g2" ...
 #
-OPT ?= -g
+#
+OPT ?= -O2 -g2
 
 # Program configuration values (used by the C++ compilers)
-MIN_BYTES ?= 3
-MAX_BYTES ?= 100
+MIN_BYTES ?= 100
+MAX_BYTES ?= 1000
 
 # Program execution and test values (used when running the programs)
 NUM_BLOCKS ?= 10000
