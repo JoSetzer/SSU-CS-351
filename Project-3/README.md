@@ -28,7 +28,7 @@ Concepts demonstrated:
 
 ### 2. Filled 10-Sided Polygon
 
-**File:** `polygon.html`
+[My triangle](start-circle.html)
 
 Expands the triangle into a filled convex polygon using a triangle fan.
 
@@ -47,9 +47,9 @@ Concepts demonstrated:
 
 ---
 
-### 3. Five-Pointed Star
+### 3. Five-Pointed Star3
 
-**File:** `star.html`
+[My triangle](start-star.html)
 
 Modifies the polygon logic to create a star shape by alternating vertex radii.
 
